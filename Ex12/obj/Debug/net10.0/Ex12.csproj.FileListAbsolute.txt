@@ -1,0 +1,14 @@
+E:\C#\BaiTap\Ex12\bin\Debug\net10.0\Ex12.exe
+E:\C#\BaiTap\Ex12\bin\Debug\net10.0\Ex12.deps.json
+E:\C#\BaiTap\Ex12\bin\Debug\net10.0\Ex12.runtimeconfig.json
+E:\C#\BaiTap\Ex12\bin\Debug\net10.0\Ex12.dll
+E:\C#\BaiTap\Ex12\bin\Debug\net10.0\Ex12.pdb
+E:\C#\BaiTap\Ex12\obj\Debug\net10.0\Ex12.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BaiTap\Ex12\obj\Debug\net10.0\Ex12.AssemblyInfoInputs.cache
+E:\C#\BaiTap\Ex12\obj\Debug\net10.0\Ex12.AssemblyInfo.cs
+E:\C#\BaiTap\Ex12\obj\Debug\net10.0\Ex12.csproj.CoreCompileInputs.cache
+E:\C#\BaiTap\Ex12\obj\Debug\net10.0\Ex12.dll
+E:\C#\BaiTap\Ex12\obj\Debug\net10.0\refint\Ex12.dll
+E:\C#\BaiTap\Ex12\obj\Debug\net10.0\Ex12.pdb
+E:\C#\BaiTap\Ex12\obj\Debug\net10.0\Ex12.genruntimeconfig.cache
+E:\C#\BaiTap\Ex12\obj\Debug\net10.0\ref\Ex12.dll
