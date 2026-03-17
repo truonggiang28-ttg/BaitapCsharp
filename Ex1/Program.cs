@@ -18,6 +18,7 @@ namespace BaiTap
                 int num = Convert.ToInt32(Console.ReadLine());
                 list.Add(num);
             }
+            Console.WriteLine("---------------------------------");
             Console.Write("\nDay da nhap la: ");
             for (int i = 0; i < list.Count; i++)
             {
