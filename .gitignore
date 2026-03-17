@@ -1,0 +1,8 @@
+# Bỏ qua các thư mục chứa file chạy (.exe, .dll) do C# tự sinh ra
+bin/
+obj/
+
+# Bỏ qua các thư mục và file cấu hình tạm thời của Visual Studio
+.vs/
+*.user
+*.suo
